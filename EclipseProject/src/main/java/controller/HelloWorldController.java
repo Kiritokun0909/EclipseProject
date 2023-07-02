@@ -11,7 +11,7 @@ public class HelloWorldController {
 	}
 	
 
-	@RequestMapping("hello123456")
+	@RequestMapping("hello123456789")
 	public String hello() {
 		return "hello";
 	}
