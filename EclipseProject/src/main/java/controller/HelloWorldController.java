@@ -10,11 +10,8 @@ public class HelloWorldController {
 		return "index";
 	}
 	
-<<<<<<< HEAD
-	@RequestMapping("hello123987")
-=======
+
 	@RequestMapping("hello123456")
->>>>>>> origin/wibu
 	public String hello() {
 		return "hello";
 	}
