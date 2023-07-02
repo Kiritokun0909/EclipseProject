@@ -7,6 +7,7 @@
 <title>Testing project</title>
 </head>
 <body>
-	<h1>Xin chao cac ban 123456!</h1>
+	<h1>Đây là tiêu đề duy nhất nha !!</h1>
+	<h2>Đây là tiêu đề nhỏ nha !!</h2>
 </body>
 </html>
